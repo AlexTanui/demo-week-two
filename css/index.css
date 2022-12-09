@@ -1,0 +1,40 @@
+body{
+    background-image: url(./cartoon\ bg.jpg);
+    height: 100vh;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+span{
+    color: brown
+}
+#cardaminal{
+    padding-left: 20px;
+}
+
+#container{
+    display: flex;
+    max-width: fit-content;
+    justify-content: space-between;
+   
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+p{
+    padding-left: 550px;
+    padding-top: 2opx;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: 30px;
+}
+.intro{
+    
+    text-align: center;
+    border: 5px solid brown;
+    border-radius: 20% ;
+    
+}
